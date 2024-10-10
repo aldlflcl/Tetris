@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61faad6650a84b1787a380c4021e2851, type: 3}
+  m_Name: Simple Tetromino Factory
+  m_EditorClassIdentifier: 
+  _tetrominoList:
+  - {fileID: 11400000, guid: cc995609c3f6ab34ca8f24464d8c666d, type: 2}
+  - {fileID: 11400000, guid: b9c2ac805fcd2514b86db34fb95bff3a, type: 2}
+  - {fileID: 11400000, guid: 975af3ca4d85e4e4780009a9fd82230c, type: 2}
+  - {fileID: 11400000, guid: 15caa937349328a4c86cc532512a5780, type: 2}
+  - {fileID: 11400000, guid: b28d584977140804c9e33e6c5c70603e, type: 2}
+  - {fileID: 11400000, guid: f26696bc1255517469969be8da1dba7b, type: 2}
+  - {fileID: 11400000, guid: c4d52317b6e8c8941a316766fa84cb90, type: 2}

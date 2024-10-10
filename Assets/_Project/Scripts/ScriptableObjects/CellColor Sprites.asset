@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d880f4a6f54f4c87b9f24f372f21557a, type: 3}
+  m_Name: CellColor Sprites
+  m_EditorClassIdentifier: 
+  _cellColorSprites:
+  - Color: 1
+    Sprite: {fileID: 21300000, guid: 71249136664f2be45b2e65fb705baad0, type: 3}
+  - Color: 2
+    Sprite: {fileID: 21300000, guid: 684f628d5f73f7d45b0188842b193ac0, type: 3}
+  - Color: 4
+    Sprite: {fileID: 21300000, guid: 5b74f64f5f3f2cc4992bf9f81fd06c6f, type: 3}
+  - Color: 5
+    Sprite: {fileID: 21300000, guid: 1353a89e98b46ae45b9cde2da846aefa, type: 3}
+  - Color: 6
+    Sprite: {fileID: 21300000, guid: 506bf6eefd50e754aa734e877e1867e1, type: 3}
+  - Color: 7
+    Sprite: {fileID: 21300000, guid: 3e2a8a55af67b2d4789d16d0474dfa44, type: 3}
+  - Color: 8
+    Sprite: {fileID: 21300000, guid: f25df0d2cf0a011449b172e0662a2e65, type: 3}
+  - Color: 0
+    Sprite: {fileID: 0}
+  - Color: 3
+    Sprite: {fileID: 21300000, guid: 0b21b75ee44a2ac429f373449c572369, type: 3}
+  - Color: 9
+    Sprite: {fileID: 21300000, guid: ee14d65253efc1949ab847d1067805db, type: 3}
